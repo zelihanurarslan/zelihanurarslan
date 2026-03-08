@@ -1,4 +1,4 @@
-# Hi 👋 I'm Zeliha Nur Arslan
+# I'm Zeliha Nur Arslan
 
  **Computer Engineering Student** at Düzce University  
  **Areas of Interest:** Embedded Systems | Software Development | Data Compression | Data Encryption | Databases | Data Visualization  
