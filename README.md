@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Zeliha Nur Arslan
 
-<!--
-**zelihanurarslan/zelihanurarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Computer Engineering Student** at Düzce University  
+ **Areas of Interest:** Embedded Systems | Software Development | Data Compression | Data Encryption | Databases | Data Visualization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Currently Learning
+- Embedded Systems  
+- Data Compression  
+- Data Encryption / Cryptography  
+- Database Management  
+
+---
+
+##  Projects
+
+**Embedded Systems Project** – Developed a system to collect live temperature and vibration data from a machine to improve energy efficiency and provide early warnings against potential fire risks.  
+
+**Python Data Visualization Project** – Built a project for visualizing and analyzing data using Python libraries.  
+
+**Data Compression & Encryption Project (In Progress)** – Currently working on techniques for data compression and encryption.  
+
+---
+
+##  Career Goals
+To specialize in embedded systems and software development, contributing to **innovative technology projects** in both defense and commercial sectors.  
+
+---
+
+##  Connect with Me
+- LinkedIn: [linkedin.com/in/zeliha-nur-arslan](https://www.linkedin.com/in/zeliha-nur-arslan/)  
+
+---
+
