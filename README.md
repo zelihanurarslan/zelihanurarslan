@@ -4,7 +4,8 @@
 
 ## About Me
 
-I am interested in embedded systems, IoT technologies, cryptography, data compression and software development. I enjoy building projects that combine hardware and software to solve real-world problems.
+I am a Computer Engineering student interested in embedded systems, IoT technologies, data compression, encryption techniques, database systems and software development. I enjoy building projects that combine hardware and software to solve real-world problems.
+
 
 ## Currently Learning
 
@@ -33,7 +34,8 @@ Designed a hybrid encryption system that combines AES-256 encryption, DNA encodi
 
 ## Career Goals
 
-My goal is to specialize in embedded systems, cybersecurity and software development, contributing to innovative and impactful technology projects.
+My goal is to specialize in embedded systems and software development while contributing to innovative technology projects involving data processing, monitoring systems and secure communication technologies.
+
 
 ## Connect With Me
 
