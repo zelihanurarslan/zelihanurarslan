@@ -1,35 +1,41 @@
-# I'm Zeliha Nur Arslan
+# Hi I'm Zeliha Nur Arslan
 
- **Computer Engineering Student** at Düzce University  
- **Areas of Interest:** Embedded Systems | Software Development | Data Compression | Data Encryption | Databases | Data Visualization  
+🎓 Computer Engineering Student at Düzce University
 
----
+## About Me
 
-##  Currently Learning
-- Embedded Systems  
-- Data Compression  
-- Data Encryption / Cryptography  
-- Database Management  
+I am interested in embedded systems, IoT technologies, cryptography, data compression and software development. I enjoy building projects that combine hardware and software to solve real-world problems.
 
----
+## Currently Learning
 
-##  Projects
+* Embedded Systems
+* Data Compression
+* Cryptography and Data Security
+* Database Management
 
-**Embedded Systems Project** – Developed a system to collect live temperature and vibration data from a machine to improve energy efficiency and provide early warnings against potential fire risks.  
+## Featured Projects
 
-**Python Data Visualization Project** – Built a project for visualizing and analyzing data using Python libraries.  
+### Smart Machine Monitoring and Energy Efficiency System
 
-**Data Compression & Encryption Project (In Progress)** – Currently working on techniques for data compression and encryption.  
+Developed an IoT-based monitoring system using ESP32, MQTT, Node-RED, InfluxDB and Grafana. The system collects real-time temperature and vibration data, improves energy efficiency and provides early warnings against potential equipment failures and fire risks.
 
----
+### Python Data Visualization Project
 
-##  Career Goals
-To specialize in embedded systems and software development, contributing to **innovative technology projects** in both defense and commercial sectors.  
+Developed data analysis and visualization applications using Python to transform raw data into meaningful insights and interactive visual representations.
 
----
+### Data Compression & Encryption System (In Progress)
 
-##  Connect with Me
-- LinkedIn: [linkedin.com/in/zeliha-nur-arslan](https://www.linkedin.com/in/zeliha-nur-arslan/)  
+Currently developing a system that combines data compression and encryption techniques to improve storage efficiency and secure data transmission.
 
----
+### DNA-AES-Latin Square Hybrid Encryption System
 
+Designed a hybrid encryption system that combines AES-256 encryption, DNA encoding and Latin Square transformations to enhance data confidentiality and encryption complexity.
+
+## Career Goals
+
+My goal is to specialize in embedded systems, cybersecurity and software development, contributing to innovative and impactful technology projects.
+
+## Connect With Me
+
+LinkedIn:
+[www.linkedin.com/in/zeliha-nur-arslan](http://www.linkedin.com/in/zeliha-nur-arslan)
